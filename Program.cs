@@ -1,4 +1,3 @@
-
 using System;
 
 class Program
@@ -40,7 +39,6 @@ class Program
         
         Console.Write("Is real-time information needed? (yes/no): ");
         realTime = Console.ReadLine().ToLower();
-s
 
         if (systems >= 3)
         {
